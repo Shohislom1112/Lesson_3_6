@@ -1,5 +1,5 @@
 import React from "react";
-import { logo } from "../../assets";
+import { logo } from "../../public";
 import "./Header.scss";
 
 const Header = () => {
