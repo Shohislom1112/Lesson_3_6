@@ -1,0 +1,36 @@
+.bloglar {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  gap: 48px;
+  padding-bottom: 150px;
+  .cr {
+    width: 304px;
+    .bol {
+      color: #211f54;
+      font-family: Roboto;
+      font-size: 28px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 36.008px; /* 128.6% */
+    }
+    .lorrr {
+      color: #6e7191;
+      font-family: Roboto;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 30.006px; /* 166.7% */
+      padding-top: 17px;
+      padding-bottom: 41px;
+    }
+  }
+}
+.bgg {
+  //   border: 1px solid #c6c4c4;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,295 @@
+.blog {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  .matn {
+    // padding-left: 110px;
+    width: 591px;
+    .kat {
+      color: #211f54;
+      font-family: Roboto;
+      font-size: 68px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 73.984px; /* 108.8% */
+    }
+    .cc {
+      color: #fff;
+      font-family: Roboto;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 18px; /* 112.5% */
+      letter-spacing: 1.6px;
+      text-transform: uppercase;
+      padding-bottom: 17px;
+    }
+    .kat1 {
+      color: #fff;
+      font-family: Roboto;
+      font-size: 68px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 73.984px; /* 108.8% */
+      width: 491px;
+    }
+    .lor {
+      color: #6e7191;
+      font-family: Roboto;
+      font-size: 21px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 30.006px; /* 142.886% */
+      padding-top: 22px;
+      padding-bottom: 34px;
+    }
+    .lor1 {
+      width: 474px;
+      color: #fff;
+      font-family: Roboto;
+      font-size: 21px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 30.006px; /* 142.886% */
+      padding-top: 22px;
+      padding-bottom: 34px;
+    }
+    .btnlar {
+      display: flex;
+      align-items: center;
+      gap: 28px;
+      .btn {
+        text-decoration: none;
+        cursor: pointer;
+        border-radius: 14px;
+        background: #0075ff;
+        color: #fff;
+        font-family: Roboto;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30.006px; /* 166.7% */
+        padding: 17px 24px;
+      }
+      .mk {
+        display: flex;
+        align-items: center;
+        color: #211f54;
+        font-family: Roboto;
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 36.008px; /* 128.6% */
+      }
+      .mk1 {
+        display: flex;
+        align-items: center;
+        color: #fff;
+        font-family: Roboto;
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 36.008px; /* 128.6% */
+      }
+    }
+  }
+}
+.text {
+  padding-top: 155px;
+  padding-bottom: 21px;
+  color: #211f54;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 57.984px; /* 120.8% */
+}
+.lorr {
+  padding-bottom: 58px;
+  color: #6e7191;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30.006px; /* 142.886% */
+  width: 648px;
+  margin: 0 auto;
+}
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .card {
+    width: 374px;
+    height: 392px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    .jiji {
+      color: #211f54;
+      text-align: center;
+      font-family: Roboto;
+      font-size: 28px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 36.008px; /* 128.6% */
+      padding-top: 30px;
+    }
+    .lo {
+      color: #6e7191;
+      text-align: center;
+      font-family: Roboto;
+      font-size: 21px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 30.006px; /* 142.886% */
+      padding-top: 16px;
+    }
+    .svg {
+      padding-left: 65px;
+    }
+  }
+}
+.btn-p {
+  padding-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 28px;
+  padding-bottom: 155px;
+  .btn {
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 14px;
+    background: #0075ff;
+    color: #fff;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30.006px; /* 166.7% */
+    padding: 17px 24px;
+  }
+  .btn-oq {
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 14px;
+    background: #fff;
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30.006px; /* 166.7% */
+    padding: 17px 24px;
+  }
+}
+///////////////////////////////
+.dis {
+  padding-bottom: 78px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  .ji {
+    color: #211f54;
+    font-family: Roboto;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 57.984px; /* 120.8% */
+  }
+  .btn-oq {
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 14px;
+    background: #fff;
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30.006px; /* 166.7% */
+    padding: 17px 24px;
+    border: 1px solid #dfd9d9;
+  }
+}
+.bg {
+  border-radius: 24px;
+  background: #211f54;
+  color: #fff !important;
+}
+.color {
+  color: #fff;
+}
+.joy {
+  padding-bottom: 155px;
+}
+.btn-o {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  .btn {
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 14px;
+    background: #0075ff;
+    color: #fff;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30.006px; /* 166.7% */
+    padding: 17px 24px;
+  }
+}
+.tepa {
+  padding-top: 300px;
+}
+.blogg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 28px;
+  padding-bottom: 130px;
+  .post {
+    img {
+      z-index: 1;
+      overflow: hidden;
+    }
+    .mt {
+      margin-top: -40px;
+      border-radius: 24px;
+      border: 1px solid #eff0f6;
+      background: #fff !important;
+      box-shadow: 0px 2px 6px 0px rgba(20, 20, 43, 0.04);
+      width: 536px;
+      height: 324px;
+      flex-shrink: 0;
+      margin: 0 auto;
+      //   margin-top: -70px;
+      z-index: 10;
+      .pp {
+        padding: 50px;
+        .bold {
+          color: #211f54;
+          font-family: Roboto;
+          font-size: 24px;
+          font-style: normal;
+          font-weight: 700;
+          line-height: 34.008px; /* 141.7% */
+        }
+        .lorka {
+          color: #6e7191;
+          font-family: Roboto;
+          font-size: 21px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: 30.006px; /* 142.886% */
+          padding: 17px 0;
+        }
+      }
+    }
+  }
+}

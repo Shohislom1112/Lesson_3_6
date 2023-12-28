@@ -1,0 +1,28 @@
+.header1 .container .hider {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 32px 0;
+}
+.header1 .container .hider a {
+  text-decoration: none;
+  cursor: pointer;
+  color: #211f54;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30.006px; /* 166.7% */
+  transition: 0.3s;
+}
+.header1 .container .hider a:hover {
+  color: #ef7c00;
+  border: 0 5px;
+  border-color: #555;
+}
+.header1 .container .hider .ong {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  gap: 22px;
+}/*# sourceMappingURL=Header.css.map */
